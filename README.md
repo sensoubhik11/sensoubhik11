@@ -2,7 +2,7 @@
   <h6 align="center">Pursuing MTech in Operations Research at NIT DGP </h6>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=sensoubhik11&style=plastic"></div>
   <ul>
-    <li>🌏 <a href="https://sensoubhik11.github.io/">My Portfolio Page</a></li>
+    <li>🌏 <a href="https://sushruta19.github.io/">My Portfolio Page</a></li>
     <li>💻 I'm looking to collaborate on Open Source projects.</li>
     <li>📫 How to reach me: Drop an email at <b><a href="mailto:ss.24p10223@nitdgp.ac.in">ss.24p10223@nitdgp.ac.in</a>
 </b>
